@@ -1,0 +1,20 @@
+{
+  "name": "gulp-tutorial",
+  "version": "1.0.0",
+  "description": "test gulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Kuzmin kuzmin6969@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-eol": "^0.1.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2"
+  }
+}
